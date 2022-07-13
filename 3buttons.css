@@ -1,0 +1,18 @@
+.controller.fight-stick {
+    background: url(http://www.zak123.com/u/base.png) center no-repeat;
+    background-position: 247px 55px;
+}
+
+.fight-stick .arrows {
+	display: none;
+}
+
+.fight-stick .quadrant{
+	display: none;
+}
+.fight-stick .bumper.left{
+	display: none;
+}
+.fight-stick .trigger-button.left{
+	display: none;
+}
